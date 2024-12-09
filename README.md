@@ -7,6 +7,8 @@ AWAAZ-360 is a Flutter-powered news application that brings real-time news updat
 - **Search by Country**: Use the search functionality to view news specific to any country.
 - **Filter News Categories**: Select from categories like General, Sports, Entertainment, Technology, and more using a dropdown menu.
 - **State Management**: Efficiently managed using **GetX** for smooth and reactive UI updates.
+- **Clean Code Architecture**: The project follows clean architecture principles to ensure scalability, maintainability, and testability.
+- **Reusable Widgets and Components**: Built with a modular approach for maximum code reusability and consistency across the app.
 
 ## Setup Instructions
 1. Clone this repository:
