@@ -1,16 +1,14 @@
 # awaaz360_news
 
-A new Flutter project.
+AWAAZ-360 is a Flutter-powered news application that brings real-time news updates from around the globe. Built using the **GNews API**, this app provides users with a seamless and intuitive experience to stay informed.
 
-## Getting Started
+## Features
+- **Browse General News**: Stay up-to-date with top headlines and breaking stories.
+- **Search by Country**: Use the search functionality to view news specific to any country.
+- **Filter News Categories**: Select from categories like General, Sports, Entertainment, Technology, and more using a dropdown menu.
+- **State Management**: Efficiently managed using **GetX** for smooth and reactive UI updates.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/awaaz360_news.git
