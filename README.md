@@ -13,4 +13,4 @@ AWAAZ-360 is a Flutter-powered news application that brings real-time news updat
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/awaaz360_news.git
+   git clone https://github.com/flutterbasit/awaaz360_news.git
