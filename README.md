@@ -1,4 +1,4 @@
-# awaaz360_news
+# Awaaz360_News App
 
 AWAAZ-360 is a Flutter-powered news application that brings real-time news updates from around the globe. Built using the **GNews API**, this app provides users with a seamless and intuitive experience to stay informed.
 
